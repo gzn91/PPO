@@ -23,4 +23,4 @@
     
     The environments and other hyperparameters can be changed in the tensorflow flags.
     
-![](gif/brakeout.gif)
+<img src="https://github.com/gzn91/PPO/blob/master/gif/brakeout.gif" width="200" height="300">
