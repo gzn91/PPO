@@ -19,7 +19,7 @@ The models can be edited in ppo.py
     
 ## Main
 main_atari.py will run Brakeout by default.  
-main_roboschool will run InvertedPendulum by default.
+main_roboschool.py will run InvertedPendulum by default.
 
 The environments and other hyperparameters can be changed in the tensorflow flags.
     
